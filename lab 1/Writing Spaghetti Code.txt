@@ -1,0 +1,24 @@
+Lab Exercise
+
+10 let m = 100
+20 let c = 1
+30 print c
+40 if c = m then GOTO 70
+50 let c = c + 1
+60 GOTO 30
+
+70 let n = 200
+80 let a = 1
+90 print a
+100 if a = n then GOTO 130
+110 let a = a + 1
+120 GOTO 90
+
+130 let z = 300
+140 let b = 1
+150 print b
+160 if z = b then GOTO 190
+170 let b = b + 1
+180 GOTO 150
+
+190 END
